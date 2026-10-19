@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salarios.dokuwell.com/sitemap.xml
+Sitemap: https://salarios.dokuline.com/sitemap.xml
